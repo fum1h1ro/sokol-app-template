@@ -1,0 +1,7 @@
+@COMPILE_FLAGS@
+-I.
+-Wall
+-Wstrict-prototypes
+-Wno-unknown-pragmas
+-Wconversion
+-std=c++20
